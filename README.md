@@ -2,9 +2,9 @@
 
 This is a solution to the **Blog Preview Card Challenge** on [Frontend Mentor](https://www.frontendmentor.io/). Frontend Mentor challenges help you improve your front-end skills by building real projects using professional designs and assets.
 
-## 📝 Overview
+##  Overview
 
-### 🔗 The Challenge
+###  The Challenge
 
 Your users should be able to:
 
@@ -12,17 +12,21 @@ Your users should be able to:
 - See hover and focus states for interactive elements
 - Use semantic HTML and maintain accessibility best practices
 
-### ✅ Screenshot
+### Live Preview
+You can view the live version of this project here: https://blog-card-frontenddev.netlify.app
+
+
+###  Screenshot
 
 ![Blog Post Card Screenshot](./assets/images/illustration-article.svg)
 
-### 🧰 Built With
+###  Built With
 
 - Semantic HTML5
 - CSS3 (Flexbox and custom properties)
 - Local font files (`Figtree`) via `@font-face`
 
-## 📁 Folder Structure
+##  Folder Structure
 
 project-folder/ │
                 ├── assets/ │
@@ -35,7 +39,7 @@ project-folder/ │
                 └── style.css
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 To view the project locally:
 
@@ -43,7 +47,7 @@ To view the project locally:
 2. Open `index.html` in your browser
 3. Make sure all asset paths are correctly linked
 
-## 🔍 What I Learned
+##  What I Learned
 
 - How to structure semantic HTML for card components
 - How to use `@font-face` for custom fonts
@@ -51,18 +55,18 @@ To view the project locally:
 - Better spacing and alignment with `gap`, `padding`, and `margin`
 - Styling accessible elements and maintaining visual hierarchy
 
-## 🚧 Future Enhancements
+##  Future Enhancements
 
 - Make the card fully responsive for all screen sizes
 - Add hover/focus effects for accessibility
 - Include transitions for smoother UI experience
 
-## 🧑‍🎓 Acknowledgments
+##  Acknowledgments
 
 - Thanks to [Frontend Mentor](https://www.frontendmentor.io/) for the challenge and design.
 - Font used: [Figtree](https://fonts.google.com/specimen/Figtree) (self-hosted from Google Fonts)
 
-## 📜 License
+##  License
 
 This project is intended for learning and personal use only.
 
