@@ -1,0 +1,1 @@
+this folder contains all static assets files like logo, imaages and article preview image
