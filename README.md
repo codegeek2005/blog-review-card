@@ -30,10 +30,9 @@ You can view the live version of this project here: https://blog-card-frontendde
 
 project-folder/ │
                 ├── assets/ │
-                            ├── fonts/ │ 
-                                       │ └── Figtree-*.ttf 
+                            ├── fonts/ 
                             │
-                            └── images/ │ ├── illustration-article.svg │ └── image-avatar.webp
+                            └── images/ 
                 │
                 ├── index.html
                 └── style.css
