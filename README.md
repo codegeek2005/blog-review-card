@@ -18,7 +18,7 @@ You can view the live version of this project here: https://blog-card-frontendde
 
 ###  Screenshot
 
-![Blog Post Card Screenshot](./assets/images/illustration-article.svg)
+![Blog Post Card Screenshot](./assets/images/card-preview.png)
 
 ###  Built With
 
